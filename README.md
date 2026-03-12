@@ -84,7 +84,7 @@
 
 </div>
 
-> 💡 *Pour activer le snake, crée un GitHub Action dans `.github/workflows/snake.yml`*
+
 
 ---
 
